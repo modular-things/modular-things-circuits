@@ -81,6 +81,8 @@ hardware repo for [these bad boys](https://github.com/jakeread/modular-things/)
 | --- | --- |
 | ![brd](oled/board.png) | ![sch](oled/schematic.png) |
 
+`note: an early version of these circuits need SCL and SDA to be flipped in between the board and the OLED module`
+
 | part | count | info ? |
 | --- | --- | --- |
 | ATSAMD21 | 1 | uc |
