@@ -164,7 +164,7 @@ hardware repo for [these bad boys](https://github.com/jakeread/modular-things/)
 | 2x3 SMT Header | 1 |
 | 0R 1206 | 2 |
 | 120R | 2 |
-| 100mOhm Shunt | 2 |
+| Shunt | 2 | use ~ 300mOhm, we think |
 | 10k 1206 | 1 |
 | 0.1uF 1206 | 2 |
 | 1uF 1206 | 4 |
