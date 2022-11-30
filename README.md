@@ -1,6 +1,8 @@
-# Modular-Thing Circuits 
+# modular-things-circuits
 
-hardware repo for [these bad boys](https://github.com/jakeread/modular-things/)
+Hardware repo for [modular-things](https://github.com/modular-things/modular-things/). Each folder includes a shematic image, board image, and relevant design files in a Fusion 360 Archive. 
+
+To design a new board, you can start with the [base design](base). Note that it is also possible to virtualize *almost any existing arduino project* as a modular-thing - these circuits are just a cohesive, demonstrative set. 
 
 ---
 
