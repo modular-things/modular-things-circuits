@@ -74,8 +74,6 @@ LSM6DSO / 497-18181-2-ND / https://learn.sparkfun.com/tutorials/qwiic-6dof-lsm6d
 
 - shunts ? 
 
----
-
 ### Modular-Thing Circuits
 
 These should... go in a circuits repo, for them? IDK 
@@ -97,24 +95,14 @@ OK, I'm going to start a repo... push the log...
 
 I think these are all done, though I'm a bit spaced, might do the due dilly and ordering tomorrow. 
 
-### W/R/T Machine Week
+### W/R/T Machine Week 
 
-- one... big one: is the computer there with it ? 
-- five canonical examples... w/ one system 
-  - drawing machine (big thing... but easy... ~ 2 hours) 
-  - line following robot (needs pc detachment, so difficult) 
-  - drum kit (buttons, solenoids) 
-  - passive sensing... plant watering thing... 
-- jake needs to make OSAP into an arduino library... fr fr 
-- should also test webserial, my dude 
-- is it just... planager, in the end ? 
 - possible machines
   - pipette
   - drawing 
   - robot-arm-ish 
   - drink mixing machine 
   - timelapse machine 
-- we need to test / build the usb-sync PHY, baby... that'll be your big lift, maybe ? 
 - this means a few output / input devices 
   - do 'em with usb-extension thing... 
     - samd21
