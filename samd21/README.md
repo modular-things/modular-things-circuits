@@ -170,6 +170,14 @@
 
 ---
 
+| sneaky mechaduino clone | |
+| --- | --- |
+| ![brd](mechaduino/routed.png) | ![sch](mechaduino/schematic.png) |
+
+In the style of the xiao boards (hole spacing / sizewise / PHY breakout wise) but w/ xiao! 
+
+---
+
 | time-of-flight | |
 | --- | --- |
 | ![brd](time-of-flight/board.jpg) | ![sch](time-of-flight/schematic.jpg) |
