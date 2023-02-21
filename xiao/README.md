@@ -16,9 +16,23 @@
 | --- | --- |
 | ![brd](low-fet/routed.jpg) | ![sch](low-fet/schematic.jpg) |
 
+---
+
 | stepper-hbridge | |
 | --- | --- |
 | ![brd](stepper-hbridge/routed.jpg) | ![sch](stepper-hbridge/schematic.jpg) |
+
+| part | count | info ? |
+| --- | --- | --- |
+| XIAO | 1 | uc |
+| H-Bridge A4950 | 2 |
+| 0.1uF 1206 | 2 |
+| 1uF 1206 | 2 |
+| 10uF 1206 | 2 |
+| 120R 1206 | 2 |
+| 0R300 1W 1206 | 2 |
+
+---
 
 | stepper-tmc2209 | |
 | --- | --- |

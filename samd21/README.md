@@ -176,6 +176,20 @@
 
 In the style of the xiao boards (hole spacing / sizewise / PHY breakout wise) but w/ xiao! 
 
+| part | count | info ? |
+| --- | --- | --- |
+| ATSAMD21 | 1 | uc |
+| JTAG 10-pin | 1 |
+| VREG | 1 | 
+| H-Bridge | 2 |
+| Shunt | 2 | use ~ 300mOhm, we think |
+| 120R | 2 |
+| 5k1 1206 | 2 |
+| 10k 1206 | 1 |
+| 0.1uF 1206 | 3 |
+| 1uF 1206 | 4 |
+| 10uF 1206 | 4 |
+
 ---
 
 | time-of-flight | |
