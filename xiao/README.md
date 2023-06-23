@@ -16,6 +16,10 @@
 | --- | --- |
 | ![brd](low-fet/routed.jpg) | ![sch](low-fet/schematic.jpg) |
 
+| MIDI-io | |
+| --- | --- |
+| ![brd](MIDI-io/board.png) | ![sch](MIDI-io/schematic.png) |
+
 ---
 
 | stepper-hbridge | |
