@@ -41,3 +41,21 @@
 | stepper-tmc2209 | |
 | --- | --- |
 | ![brd](stepper-tmc2209/routed.jpg) | ![sch](stepper-tmc2209/schematic.jpg) |
+
+---
+
+| distance-VL53L1 | |
+| --- | --- |
+| ![brd](distance-VL53L1/board.png) | ![sch](distance-VL53L1/schematic.png) |
+
+| accel-LSM6DSO | |
+| --- | --- |
+| ![brd](accel-LSM6DSO/board.png) | ![sch](accel-LSM6DSO/schematic.png) |
+
+| display-OLED | |
+| --- | --- |
+| ![brd](display-OLED/board.png) | ![sch](display-OLED/schematic.png) |
+
+| potentiometer-P120 | |
+| --- | --- |
+| ![brd](potentiometer-P120/board.png) | ![sch](potentiometer-P120/schematic.png) |
