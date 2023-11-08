@@ -46,24 +46,24 @@
 
 | distance-VL53L1 | |
 | --- | --- |
-| ![brd](distance-VL53L1/board.png) | ![sch](distance-VL53L1/schematic.png) |
+| ![brd](distance-VL53L1/preview.png) | ![sch](distance-VL53L1/schematic.png) |
 
 | accel-LSM6DSO | |
 | --- | --- |
-| ![brd](accel-LSM6DSO/board.png) | ![sch](accel-LSM6DSO/schematic.png) |
+| ![brd](accel-LSM6DSO/preview.png) | ![sch](accel-LSM6DSO/schematic.png) |
 
 | accel-BNO08x | |
 | --- | --- |
-| ![brd](accel-BNO08x/board.png) | ![sch](accel-BNO08x/schematic.png) |
+| ![brd](accel-BNO08x/preview.png) | ![sch](accel-BNO08x/schematic.png) |
 
 | display-OLED | |
 | --- | --- |
-| ![brd](display-OLED/board.png) | ![sch](display-OLED/schematic.png) |
+| ![brd](display-OLED/preview.png) | ![sch](display-OLED/schematic.png) |
 
 | potentiometer-P120 | |
 | --- | --- |
-| ![brd](potentiometer-P120/board.png) | ![sch](potentiometer-P120/schematic.png) |
+| ![brd](potentiometer-P120/preview.png) | ![sch](potentiometer-P120/schematic.png) |
 
 | button | |
 | --- | --- |
-| ![brd](button/board.png) | ![sch](button/schematic.png) |
+| ![brd](button/preview.png) | ![sch](button/schematic.png) |
