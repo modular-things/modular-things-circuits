@@ -64,6 +64,6 @@
 | --- | --- |
 | ![brd](potentiometer-P120/board.png) | ![sch](potentiometer-P120/schematic.png) |
 
-| button-P120 | |
+| button | |
 | --- | --- |
 | ![brd](button/board.png) | ![sch](button/schematic.png) |
