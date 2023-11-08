@@ -52,6 +52,10 @@
 | --- | --- |
 | ![brd](accel-LSM6DSO/board.png) | ![sch](accel-LSM6DSO/schematic.png) |
 
+| accel-BNO08x | |
+| --- | --- |
+| ![brd](accel-BNO08x/board.png) | ![sch](accel-BNO08x/schematic.png) |
+
 | display-OLED | |
 | --- | --- |
 | ![brd](display-OLED/board.png) | ![sch](display-OLED/schematic.png) |
@@ -59,3 +63,7 @@
 | potentiometer-P120 | |
 | --- | --- |
 | ![brd](potentiometer-P120/board.png) | ![sch](potentiometer-P120/schematic.png) |
+
+| button-P120 | |
+| --- | --- |
+| ![brd](button/board.png) | ![sch](button/schematic.png) |
