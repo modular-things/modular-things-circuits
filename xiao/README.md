@@ -67,3 +67,7 @@
 | button | |
 | --- | --- |
 | ![brd](button/preview.png) | ![sch](button/schematic.png) |
+
+| servo | |
+| --- | --- |
+| ![brd](servo/preview.png) | ![sch](servo/schematic.png) |
